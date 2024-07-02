@@ -1,6 +1,6 @@
 # Transit-Stations-Malaysia
 
-## Pull Data from Wikipedia and geocode using Google GeocodeAPI
+### Pull Data from Wikipedia and geocode using Google GeocodeAPI
 sample data:
 ```ruby
 Code,Station Name,Interchanges/Connections,District/City,State/Territory,Latitude,Longitude
